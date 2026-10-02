@@ -1,0 +1,1 @@
+# idea-ai-diff-viewer-plugin
